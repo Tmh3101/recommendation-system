@@ -1,8 +1,6 @@
 from fastapi import FastAPI
 from pydantic import BaseModel
 import dill
-import json
-
 
 app = FastAPI()
 
